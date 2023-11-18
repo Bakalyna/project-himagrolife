@@ -1,0 +1,115 @@
+.body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background: #fff;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  width: 320px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin: 0 auto;
+}
+
+address {
+  font-style: normal;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.body {
+}
+.container {
+  background-color: rgb(252, 242, 151);
+}
+.header {
+}
+.header-list {
+}
+.header-text {
+  color: #434455;
+}
+.header-item {
+}
+.header-link {
+}
+.header-address {
+}
+.header-list-address {
+}
+.header-item-address {
+}
+.header-link-address {
+}
+.hero {
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(./images/поле-небо.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: cover; */
+}
+.hero-title {
+  color: #fff;
+  text-align: center;
+}
+.our-products {
+}
+.products-subtitle {
+}
+.products-list {
+}
+.products-subtitle-title {
+}
+.products-text {
+}
+.products-item {
+}
+.products-subtitle-our {
+}
+.hero-subtitle-title {
+}
+.our-team {
+}
